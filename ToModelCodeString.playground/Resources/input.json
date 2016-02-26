@@ -1,0 +1,81 @@
+{
+    "sk": {
+        "temp": "11",
+        "wind_direction": "北风",
+        "wind_strength": "4级",
+        "humidity": "96",
+        "time": "09:35"
+    },
+    "today": {
+        "city": "湛江",
+        "date_y": "2016年02月26日",
+        "week": "星期五",
+        "temperature": "12~16",
+        "weather": "阴",
+        "fa": "02",
+        "fb": "01",
+        "wind": "北风 微风",
+        "dressing_index": "较冷",
+        "dressing_advice": "建议着厚外套加毛衣等服装。年老体弱者宜着大衣、呢外套加羊毛衫。",
+        "uv_index": "最弱",
+        "comfort_index": "--",
+        "wash_index": "较适宜",
+        "travel_index": "较适宜",
+        "exercise_index": "较适宜",
+        "drying_index": "--"
+    },
+    "future": [{
+               "temperature": "12~20",
+               "weather": "多云",
+               "fa": "01",
+               "fb": "00",
+               "wind": "无持续风向 微风",
+               "week": "星期六",
+               "date": "20160227"
+               },
+               {
+               "temperature": "12~23",
+               "weather": "晴",
+               "fa": "00",
+               "fb": "00",
+               "wind": "无持续风向 微风",
+               "week": "星期日",
+               "date": "20160228"
+               },
+               {
+               "temperature": "11~24",
+               "weather": "多云",
+               "fa": "01",
+               "fb": "01",
+               "wind": "无持续风向 微风",
+               "week": "星期一",
+               "date": "20160229"
+               },
+               {
+               "temperature": "11~21",
+               "weather": "多云",
+               "fa": "01",
+               "fb": "01",
+               "wind": "东风 3-4 级",
+               "week": "星期二",
+               "date": "20160301"
+               },
+               {
+               "temperature": "13~21",
+               "weather": "晴",
+               "fa": "00",
+               "fb": "00",
+               "wind": " 微风",
+               "week": "星期三",
+               "date": "20160302"
+               },
+               {
+               "temperature": "14~21",
+               "weather": "晴",
+               "fa": "00",
+               "fb": "00",
+               "wind": "东南风 微风",
+               "week": "星期四",
+               "date": "20160303"
+               }]
+}
