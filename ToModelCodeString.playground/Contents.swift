@@ -348,6 +348,9 @@ class Obj{
 
 ///////////////////////////////////////////// main run ////////////////////////////////////////////////
 
+//let inputFileUrl = [#FileReference(fileReferenceLiteral: "input.json")#]
+//let inputData = NSData(contentsOfURL: inputFileUrl)
+
 let inputData = NSData(contentsOfFile:NSBundle.mainBundle().pathForResource("input", ofType: "json")!)
 let jsonString = NSString(data: inputData!, encoding: NSUTF8StringEncoding)
 //print(jsonString)
