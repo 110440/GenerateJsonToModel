@@ -348,8 +348,7 @@ class Obj{
 
 ///////////////////////////////////////////// main run ////////////////////////////////////////////////
 
-let inputPath = "/Users/sontan/Desktop/ToModel/ToModelCodeString.playground/Resources/input.json"
-let inputData = NSData(contentsOfFile:inputPath)
+let inputData = NSData(contentsOfFile:NSBundle.mainBundle().pathForResource("input", ofType: "json")!)
 let jsonString = NSString(data: inputData!, encoding: NSUTF8StringEncoding)
 //print(jsonString)
 
